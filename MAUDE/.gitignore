@@ -8,6 +8,9 @@
 *.so
 *.json
 *.png
+*.shp
+*.shx
+*.dbf
 
 # Packages #
 ############
